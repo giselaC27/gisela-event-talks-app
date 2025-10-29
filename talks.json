@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript",
+    "speakers": ["John Doe"],
+    "category": ["JavaScript", "Web Development", "Future"],
+    "duration": 60,
+    "description": "A deep dive into the upcoming features of JavaScript and how they will shape the future of web development."
+  },
+  {
+    "title": "CSS Grid and Flexbox: A Love Story",
+    "speakers": ["Jane Smith"],
+    "category": ["CSS", "Web Design"],
+    "duration": 60,
+    "description": "Learn how to create complex and responsive layouts with ease using CSS Grid and Flexbox."
+  },
+  {
+    "title": "Building Scalable APIs with Node.js",
+    "speakers": ["Peter Jones", "Mary Johnson"],
+    "category": ["Node.js", "API", "Backend"],
+    "duration": 60,
+    "description": "A comprehensive guide to building scalable and maintainable APIs with Node.js and Express."
+  },
+  {
+    "title": "Introduction to Machine Learning",
+    "speakers": ["David Williams"],
+    "category": ["Machine Learning", "AI"],
+    "duration": 60,
+    "description": "A beginner-friendly introduction to the world of machine learning and its applications."
+  },
+  {
+    "title": "The Power of Serverless",
+    "speakers": ["Susan Brown"],
+    "category": ["Serverless", "Cloud", "Architecture"],
+    "duration": 60,
+    "description": "Discover the benefits of serverless architecture and how it can help you build and deploy applications faster."
+  },
+  {
+    "title": "Cybersecurity in the Modern Age",
+    "speakers": ["Michael Miller"],
+    "category": ["Cybersecurity", "Security"],
+    "duration": 60,
+    "description": "An overview of the latest cybersecurity threats and how to protect yourself and your organization."
+  }
+]
